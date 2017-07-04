@@ -1,0 +1,9 @@
+C:\Users\Makalo\Desktop\ThinkGear SDK for .NET\Sample Projects\HelloEEG\bin\Release\HelloEEG.exe.config
+C:\Users\Makalo\Desktop\ThinkGear SDK for .NET\Sample Projects\HelloEEG\bin\Release\HelloEEG.exe
+C:\Users\Makalo\Desktop\ThinkGear SDK for .NET\Sample Projects\HelloEEG\bin\Release\HelloEEG.pdb
+C:\Users\Makalo\Desktop\ThinkGear SDK for .NET\Sample Projects\HelloEEG\bin\Release\ThinkGear.dll
+C:\Users\Makalo\Desktop\ThinkGear SDK for .NET\Sample Projects\HelloEEG\bin\Release\NLog.dll
+C:\Users\Makalo\Desktop\ThinkGear SDK for .NET\Sample Projects\HelloEEG\bin\Release\Jayrock.Json.dll
+C:\Users\Makalo\Desktop\ThinkGear SDK for .NET\Sample Projects\HelloEEG\bin\Release\NLog.xml
+C:\Users\Makalo\Desktop\ThinkGear SDK for .NET\Sample Projects\HelloEEG\obj\x86\Release\HelloEEG.exe
+C:\Users\Makalo\Desktop\ThinkGear SDK for .NET\Sample Projects\HelloEEG\obj\x86\Release\HelloEEG.pdb
